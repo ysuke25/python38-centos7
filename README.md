@@ -8,3 +8,4 @@ python3.8 [python file]
 pip3.8 [library]
 ```
 
+You build this Docokerfile, it takes long time.
